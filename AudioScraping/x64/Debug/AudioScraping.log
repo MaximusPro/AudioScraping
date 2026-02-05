@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Max\source\repos\AudioScraping\AudioScraping\main.cpp(11,8): warning C4804: '%': unsafe use of type 'bool' in operation
+C:\Users\Max\source\repos\AudioScraping\AudioScraping\main.cpp(36,24): warning C4390: ';': empty controlled statement found; is this the intent?
+  Scraper.cpp
+  Generating Code...
+  AudioScraping.vcxproj -> C:\Users\Max\source\repos\AudioScraping\x64\Debug\AudioScraping.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
