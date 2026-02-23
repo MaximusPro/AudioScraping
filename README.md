@@ -18,15 +18,6 @@ A tool for automatically downloading audio files (music, podcasts, sound effects
 - Written in C++ (Visual Studio solution)
 - Planning support for multiple audio sources
 
-Planned / possible sources (feel free to add your own):
-
-- Free Music Archive / Creative Commons websites
-- YouTube → audio track extraction (youtube-dl / yt-dlp style)
-- SoundCloud (public tracks)
-- Freesound.org
-- Podcast RSS feeds
-- Niche forums and old audio archives
-
 ## Technologies
 
 - **Language**: C++ (C++17 / C++20)
