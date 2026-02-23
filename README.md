@@ -1,7 +1,7 @@
 # AudioScraping
 
 **Audio content scraping from open sources**  
-A tool for automatically downloading audio files (music, podcasts, sound effects, speech recordings, etc.) from various websites.
+A tool for automatically downloading audio files (music, podcasts, sound effects, speech recordings, etc.) from soundcloud.com.
 
 **Project status**: very early stage (initial commit)
 
