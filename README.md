@@ -56,9 +56,7 @@ AudioScraping.sln
 ## Usage (future documentation)
 ```bash
 # Desired future interface examples (not implemented yet)
-audioscrape --url "https://example.com/playlist" --format mp3 --out ./downloads/
-audioscrape --config config.yaml
-audioscrape --source soundcloud --search "lofi hip hop" --limit 50
+audioscrape -client_id 2266286247012 -link "https://soundcloud.com/eatbrain"
 ```
 ## TODO
 - Connect at least one working source (e.g. Freesound API)
