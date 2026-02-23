@@ -61,13 +61,13 @@ audioscrape --config config.yaml
 audioscrape --source soundcloud --search "lofi hip hop" --limit 50
 ```
 ## TODO
- Connect at least one working source (e.g. Freesound API)
- Implement basic CLI interface (argc/argv or library)
- Add proper error handling and logging
- Save metadata (title, artist, tags, etc.)
- Support output folder and format selection
- Consider multithreading + rate limiting
- Create proper .gitignore for Visual Studio + C++
+- Connect at least one working source (e.g. Freesound API)
+- Implement basic CLI interface (argc/argv or library)
+- Add proper error handling and logging
+- Save metadata (title, artist, tags, etc.)
+- Support output folder and format selection
+- Consider multithreading + rate limiting
+- Create proper .gitignore for Visual Studio + C++
 
 # License
 MIT (for now — feel free to change)
