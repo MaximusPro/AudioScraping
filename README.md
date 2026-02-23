@@ -71,6 +71,6 @@ audioscrape --source soundcloud --search "lofi hip hop" --limit 50
 
 # License
 MIT (for now — feel free to change)
-Author
+# Author
 MaximusPro
 Contributions, ideas, feature requests — welcome in issues / pull requests!
