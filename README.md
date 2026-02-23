@@ -47,7 +47,7 @@ Rough plan:
 # 1. Clone
 git clone https://github.com/MaximusPro/AudioScraping.git
 cd AudioScraping
-
+```
 # 2. Open in Visual Studio
 AudioScraping.sln
 
